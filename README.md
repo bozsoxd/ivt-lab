@@ -3,6 +3,7 @@
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
 Ezt a sort változtatom
+Ebben meg ezt a sort
 ## Getting started
 
 - The project is implemented in Java 11.
